@@ -1,7 +1,7 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
- * _printf - produces an ouput according to a format
+ * _printf - formatted output conversion and print data.
  * @format: input string.
  *
  * Return: number of chars printed.
